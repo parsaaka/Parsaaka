@@ -29,10 +29,10 @@ I love creating clean, responsive, and user-friendly web experiences using moder
 ---
 
 ### 📫 Contact
-- 🌍 **Portfolio:** [parsaakbari.vercel.app](https://parsaakbari.ir)
-- 💼 **LinkedIn:** [linkedin.com/in/parsa-akbari](https://www.linkedin.com/in/parsa-akbari-7a6177218/)
+- 🌍 **Portfolio:** [parsaakbari](https://parsaakbari.ir)
+- 💼 **LinkedIn:** [Parsa Akbari](https://www.linkedin.com/in/parsa-akbari-7a6177218/)
 
 
 ---
 
-⭐️ From [ParsaAkbari](https://github.com/ParsaAkbari)
+⭐️ From [ParsaAkbari](https://github.com/parsaaka/Parsaaka.git)
