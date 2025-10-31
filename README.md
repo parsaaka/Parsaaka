@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, Welcome to my profile! 👋</h1>
 
----
 
 ### 👨‍💻 About Me
 Hello! My name is **Parsa Akbari**, I am a Computer Science student at Rasht University and a passionate **Web Designer & Junior Software Engineer**.  
