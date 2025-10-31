@@ -35,4 +35,4 @@ I love creating clean, responsive, and user-friendly web experiences using moder
 
 ---
 
-⭐️ From [ParsaAkbari](https://github.com/parsaaka/Parsaaka.git)
+⭐️ From [ParsaAkbari](https://github.com/parsaaka)
