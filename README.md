@@ -1,7 +1,7 @@
 
 
 ### 👨‍💻 About Me
-Hello! My name is **Parsa Akbari**, I am a Computer Science student at Rasht University and a passionate **Web Designer & Junior Software Engineer**.  
+Hi My name is "Parsa Akbari", I'm a Computer Engineer student at Rasht University and a passionate **Web Designer &  Software Engineer**.  
 On a journey to understand how machines think.
 
 ---
