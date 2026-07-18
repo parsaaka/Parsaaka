@@ -56,9 +56,7 @@ Some projects I'm building and improving:
 ---
 
 ## 📊 GitHub Stats
-
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsaaka&show_icons=true&theme=tokyonight)
-
+![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parsaaka&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
 ## 📫 Connect With Me
